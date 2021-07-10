@@ -13,3 +13,8 @@ Implementing basics of MACD and RSI by using Python3
 
 -What is SMA?\
 +A **simple moving average** (SMA) is an arithmetic moving average calculated by adding recent prices and then dividing that figure by the number of time periods in the calculation average.
+
+-What is RS?\
++**The relative strength** is a technique that compares the value of a security to another security, index or benchmark. The relative strength can be considered to be part of the value investing system. The relative strength is represented by a ratio. It is derived by dividing the base security by the security, index or benchmark which is to be used for the comparison.
+
+-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
